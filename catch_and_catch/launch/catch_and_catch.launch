@@ -1,0 +1,4 @@
+<launch>
+  <node name="turtlesim_node" pkg="turtlesim" type="turtlesim_node" output="screen"/> 
+  <node name="catch_and_catch" pkg="catch_and_catch" type="main.py" output="screen"/> 
+</launch>
