@@ -14,7 +14,7 @@ The game is basically, there a initial turtle which is the catcher of the game .
   <li>spawning new turtle</li><br>
   <li>identifing distance</li><br>
   <li>equating the distance </li><br>
-  <li>killing turtle</li> <br></ul></p>
+  <li>killing the turtle</li> <br></ul></p>
   
 <ol>
   <p>
