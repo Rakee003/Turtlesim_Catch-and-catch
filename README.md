@@ -9,10 +9,10 @@ The game is basically, there a initial turtle which is the catcher of the game .
   <br><ul><li>locating random positions</li><br>
   <li>spawning new turtle</li><br>
   <li>identifing distance</li><br>
-  <li>equating the distance</li><br>
+  <li>equating the distance </li><br>
   <li>killing turtle</li> <br></ul></p>
   
-<ul>
+<ol>
   <p>
   <li><h5>Locating random positions<h5></li>
     > random.randrange() <br>
@@ -34,18 +34,17 @@ The game is basically, there a initial turtle which is the catcher of the game .
       <li><h5>Equating the distance</h5></li>
       Equating the distance between the turtles with the tolerance level , the linear and angular velocities of the turtle is changed simultaneously<br>
       >while self.euclidean_distance(goal_pose) >= float(distance_tolerance):<br>
-      With that the turtle moves towards the catching the new turtles
+      With that the turtle moves towards the catching the new turtles<br>
     </p>
-     
-    
     <p>
-      <li><h5>Killing turtle</h5></li>
+      <li><h5>Killing the turtle</h5></li>
       >Turtle_kill(killer_name)<br>
       This function is used to kill the turtle whose input parameter is the name of the turtle. Once the Catcher turtle catches the newly spawned turtle. Then the Turtle_Kill function is been called<br>
       >self.Turtle_kill('turtle2')
     </p>
 
-  </ul>
+</ol>
+      
 
 ![Screenshot from 2021-06-30 14-39-58(1)](https://user-images.githubusercontent.com/58605350/124026120-e87f8280-da0e-11eb-89d0-d316f0e9f482.png)
 
