@@ -5,6 +5,10 @@ This is a fun implementation of Catch and Catch game done using ROS Turtlesim.
 
 The game is basically, there a initial turtle which is the catcher of the game . A new turtle is spawing to which the catcher is going to the goal position to catch the new turtle. Everytime we catch a turtle a new turtle is spawing in a random position. This process repeats continuously
 <p>
+  
+  ![github_crop](https://user-images.githubusercontent.com/58605350/124253659-dfdd9800-db45-11eb-913e-1fd99eb991eb.png)
+
+  
 <h3><b>Flow of program</b></h3>
   <br><ul><li>locating random positions</li><br>
   <li>spawning new turtle</li><br>
