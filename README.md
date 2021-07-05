@@ -20,7 +20,6 @@ Initially a turtle will be there which is the catcher of the game. A new turtle 
   <p>
   <li><h5>Locating random positions<h5></li>
     > random.randrange() <br>
-    <div style="padding:10px;">random.randrange()</div>
     This function can output a random value between the range of value we give it as a input. So by using this we can locate and spawn a turtle in random positions of the turtlesim workspace.</p>
     <p>
     <li><h5>Spawning new turtle</h5></li>
